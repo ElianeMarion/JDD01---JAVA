@@ -20,6 +20,5 @@ public class Media {
         }while(continuar.equalsIgnoreCase("s") || continuar.equalsIgnoreCase("sim"));
         media = idade/numeroAluno;
         System.out.println("A média de idade dos alunos da escola é: " + media);
-
     }
 }
