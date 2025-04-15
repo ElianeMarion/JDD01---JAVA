@@ -1,0 +1,18 @@
+
+€
+java:S1854"8Remove this useless assignment to local variable "nome".(ÃØ„Áúÿÿÿÿ8¿Í×³ã2J$f5908b89-a4a9-4396-a164-fae5bbc6ad52
+|
+java:S1854":Remove this useless assignment to local variable "idades".(İÀG8ÕµÓ³ã2J$e38ee8ce-64d9-46a1-afb0-23b8a396a4e2
+|
+java:S1854"9Remove this useless assignment to local variable "nomes".(ÓÕû¿8ÕµÓ³ã2J$3941bd70-57a6-4226-b730-80b3688b195d
+}	java:S125"<This block of commented-out lines of code should be removed.(—¿s8ÛµÓ³ã2J$a96fe311-eff3-48cd-a639-60e3f8674a8f
+m
+java:S1481"*Remove this unused "nomes" local variable.(ÓÕû¿8ÛµÓ³ã2J$2ece5a4e-23ff-4bba-9d66-de932485e380
+m
+java:S1481"+Remove this unused "idades" local variable.(İÀG8İµÓ³ã2J$4b4731c4-8601-40c7-9130-781da24f2dff
+q
+java:S1481")Remove this unused "nome" local variable.(ÃØ„Áúÿÿÿÿ8ÇÍ×³ã2J$d1360b2f-f043-4c94-8f75-663b6f0619d7
+r	java:S106"+Replace this use of System.out by a logger.(ŞéÜÉûÿÿÿÿ8ŞµÓ³ã2J$9ebe21b7-29c5-4e7b-85f6-66289d0d377b
+r	java:S106"+Replace this use of System.out by a logger.(—½ããúÿÿÿÿ8ßµÓ³ã2J$4053f2fa-d4df-492a-84e6-e1bd43f3a0e4
+m	java:S106"+Replace this use of System.out by a logger.(‹à“Ö8ßµÓ³ã2J$09f80abf-085a-4de9-89e5-022176f5321a
+m	java:S106"+Replace this use of System.out by a logger.(»ÁåÃ8ßµÓ³ã2J$b1e815e4-29bf-437e-b950-af76b36a8d55

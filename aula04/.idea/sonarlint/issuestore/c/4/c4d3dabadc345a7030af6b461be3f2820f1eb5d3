@@ -1,0 +1,21 @@
+
+|
+java:S1854"9Remove this useless assignment to local variable "valor".(¾æ8Ê¾²ã2J$0c0dd858-9db7-47ec-a522-13e31f88a1aa
+…
+java:S1659"BDeclare "valor" and all following declarations on a separate line.(¨Ş–’8Ì¾²ã2J$147bc44f-0494-48ed-8579-9d7c3f6033e7
+w
+java:S16597"/Declare "valorTotalProjeto" on a separate line.(şı¡Ûüÿÿÿÿ8Ì¾²ã2J$4ca08175-f286-471d-8027-61e792260a07
+m
+java:S1481"*Remove this unused "valor" local variable.(¨Ş–’8Ñ¾²ã2J$e7237e6a-1d40-4881-94c2-652a0e98847d
+l	java:S106"+Replace this use of System.out by a logger.(½Ú¦/8Ò¾²ã2J$1410e7d0-c84f-463d-a2b5-38693cec24ed
+m	java:S106"+Replace this use of System.out by a logger.(öò³ÿ8Ô¾²ã2J$3d37b264-e82e-4687-889c-e19456a47b69
+r	java:S106&"+Replace this use of System.out by a logger.(ûŸè´ÿÿÿÿÿ8Õ¾²ã2J$46b85fbe-0b5b-45c7-82cc-1bc8571fd501
+m	java:S106*"+Replace this use of System.out by a logger.(›¥†Ô8Ö¾²ã2J$28f59faa-d211-43a7-a2f1-814cfa6e8d3d
+r	java:S106-"+Replace this use of System.out by a logger.(±Õù¦ıÿÿÿÿ8Ö¾²ã2J$4ea99398-3dc0-4fa1-b5e8-cdb1a8f1d433
+r	java:S1061"+Replace this use of System.out by a logger.(¿õùƒşÿÿÿÿ8×¾²ã2J$2d582a2e-11a3-40d9-a20c-70d77a669725
+r	java:S1065"+Replace this use of System.out by a logger.(™Ş÷Óüÿÿÿÿ8Ø¾²ã2J$fad771bb-7102-4555-a79c-521cf68b77f7
+r	java:S106:"+Replace this use of System.out by a logger.(”Æşşÿÿÿÿ8Ù¾²ã2J$4fce39c4-4f6f-4f73-ae5f-fe7b2b4674d1
+r	java:S106@"+Replace this use of System.out by a logger.(á…î’úÿÿÿÿ8Ù¾²ã2J$f6f6b3ad-6493-4824-aa89-1d3f3c0add18
+m	java:S106A"+Replace this use of System.out by a logger.(Ÿç×Â8Ù¾²ã2J$04ec2c44-fc28-44c2-b838-8e9fd3ebc4b1
+m	java:S106B"+Replace this use of System.out by a logger.(ÛßÔé8Ù¾²ã2J$f063a51a-4bea-4dc8-9b89-988eafe52230
+r	java:S106D"+Replace this use of System.out by a logger.(Ò¸ª¸üÿÿÿÿ8Û¾²ã2J$7755b1ef-c90a-4e97-8d8a-67a80e050bd8
