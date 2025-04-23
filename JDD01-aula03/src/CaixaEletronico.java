@@ -17,7 +17,7 @@ Lembre-se: o saldo começa com 0 (zero). O programa deve controlar o valor
         int opcao;
         double saldo = 0, valor;
         System.out.println("Bem vindo ao Banco FIAP");
-       do {
+        do {
            System.out.println("\nOperações disponíveis neste caixa:" +
                    "\n\n1 - Depósito\t\t2 - Saque" +
                    "\n3 - Consultar Saldo\t4 - Sair");

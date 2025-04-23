@@ -1,0 +1,7 @@
+
+¬
+java:S4165'"dRemove this useless assignment; "vetNum" already holds the assigned value along all execution paths.(îÓ­ëúÿÿÿÿ8Ìåóýå2J$d67017d6-c791-42b0-ad7b-125656c5896a
+r	java:S106"+Replace this use of System.out by a logger.(´å…Âýÿÿÿÿ8ŒìÍýå2J$55c12167-aaa4-4dfe-bccc-3c9e6efb9d52
+m	java:S106"+Replace this use of System.out by a logger.(ïËâ©8”ìÍýå2J$8d2ef574-e1c2-4db7-8bcd-a8ca8b7d45bd
+r	java:S106""+Replace this use of System.out by a logger.(ŸÞ›°ÿÿÿÿÿ8”ìÍýå2J$faf56b6a-bcf7-499f-bbf6-73e930a5acd4
+G	java:S106&"+Replace this use of System.out by a logger.(Ô¤à±8¢›õýå2

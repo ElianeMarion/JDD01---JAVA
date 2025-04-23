@@ -1,0 +1,101 @@
+
+™
+java:S1104"QMake email a static final constant or non-public and provide accessors if needed.(óÁ¥Ëûÿÿÿÿ8ş°±æ2J$6e773c9f-b5d7-4ab1-92a4-2b7585b38921
+™
+java:S1104"QMake senha a static final constant or non-public and provide accessors if needed.(óÁ¥Ëûÿÿÿÿ8ş°±æ2J$d2e86d3a-09d4-4bfe-b225-335c325669e1
+Ÿ
+java:S1104	"\Make equipamentoSerie a static final constant or non-public and provide accessors if needed.(Üş‹„8ş°±æ2J$4b65ff67-a99c-4fcb-a8a4-1e3070dd96ac
+£
+java:S1104
+"`Make equipamentoDescricao a static final constant or non-public and provide accessors if needed.(¡Şèò8ş°±æ2J$ab3a6514-aed4-41d9-a4f9-26935281de78
+¥
+java:S1104"]Make equipamentoStatus a static final constant or non-public and provide accessors if needed.(¦ªÔ‡üÿÿÿÿ8ş°±æ2J$974c0cb2-507e-4041-aebe-ca873bdb850e
+
+java:S1104"[Make qtdEquipamentos a static final constant or non-public and provide accessors if needed.(ñ¦ ­8ş°±æ2J$28c50bc5-fda2-4421-874a-c12e5c428ca7
+s
+java:S1444"+Make this "public static email" field final(óÁ¥Ëûÿÿÿÿ8ş°±æ2J$43a7c95a-b3e0-40b3-a218-b53431c401b3
+s
+java:S1444"+Make this "public static senha" field final(óÁ¥Ëûÿÿÿÿ8ş°±æ2J$0330221d-e31b-4fc5-8cf5-93427c06f05b
+y
+java:S1444	"6Make this "public static equipamentoSerie" field final(Üş‹„8ş°±æ2J$40231536-bd58-4c86-9b29-a28bc63fce8c
+}
+java:S1444
+":Make this "public static equipamentoDescricao" field final(¡Şèò8ş°±æ2J$caac9809-9e23-49dc-94d0-c330143013f3
+
+java:S1444"7Make this "public static equipamentoStatus" field final(¦ªÔ‡üÿÿÿÿ8ş°±æ2J$d1a334ed-3a44-4aeb-8a63-2da4a3d839e4
+x
+java:S1444"5Make this "public static qtdEquipamentos" field final(ñ¦ ­8ş°±æ2J$f66a2b88-af3b-4f5d-918e-db0b986d2955
+k
+java:S1659"#Declare "senha" on a separate line.(óÁ¥Ëûÿÿÿÿ8Ÿ²±æ2J$4255492e-050a-4521-bc6c-6b5cf0638a6a
+`
+java:S2386	"Make this member "protected".(Üş‹„8 ²±æ2J$fa2e09c2-25c2-45dd-9884-381d4bcf7b95
+`
+java:S2386
+"Make this member "protected".(¡Şèò8¡²±æ2J$5197df31-e9fc-4269-a140-fd7feb61d9d4
+e
+java:S2386"Make this member "protected".(¦ªÔ‡üÿÿÿÿ8¡²±æ2J$46e85c01-6f94-41ce-8589-6f1d331a1a0a
+m	java:S106"+Replace this use of System.out by a logger.(ÉÂ¶²8¤²±æ2J$10f61bf8-416f-43b7-871e-d5bca1c57ea0
+u
+java:S6126"2Replace this String concatenation with Text block.(ÉÂ¶²8¥²±æ2J$d50f175d-935a-4089-8092-ad86a18e735b
+r	java:S106"+Replace this use of System.out by a logger.(ƒØÉùüÿÿÿÿ8¥²±æ2J$a1c816cf-0757-45f8-887b-332551842c11
+m	java:S106"+Replace this use of System.out by a logger.(Ãúà¾8¥²±æ2J$aef7bcc1-efc4-4f38-a2eb-bf81168b1a2c
+m	java:S106"+Replace this use of System.out by a logger.(Šíç†8¥²±æ2J$8945b320-bdf6-494e-b440-3fc728a66558
+m	java:S106"+Replace this use of System.out by a logger.(‚¶úê8¥²±æ2J$a3ab12ff-426e-4b22-b7d2-ea837f36d7d4
+m	java:S106"+Replace this use of System.out by a logger.(¥ğŞ8¥²±æ2J$f3863df3-4594-4153-9892-95e8a139aefc
+m	java:S106""+Replace this use of System.out by a logger.(ÉÂ¶²8¦²±æ2J$07a4b9d4-3cba-46e2-97bc-b5969f9377ce
+u
+java:S6126""2Replace this String concatenation with Text block.(ÉÂ¶²8¦²±æ2J$beed7d49-782a-4409-8f49-8bd499ee0a11
+m	java:S106'"+Replace this use of System.out by a logger.(¿§š†8¦²±æ2J$eb6a52b7-9dbd-4033-b4f2-36a4ad59120f
+r	java:S106="+Replace this use of System.out by a logger.(¾Å¯Áüÿÿÿÿ8¨²±æ2J$560de8bb-fed6-4ddb-a919-51f35d7988b4
+ƒ	java:S125B"<This block of commented-out lines of code should be removed.(‡™Šùÿÿÿÿ8©²±æ2J$da27384b-0e8b-4732-89ab-c91baff620de
+m	java:S106I"+Replace this use of System.out by a logger.(ÍŠŒÀ8«²±æ2J$26cbce46-ac74-4beb-be1d-0055db041379
+l	java:S106M"+Replace this use of System.out by a logger.(“×út8«²±æ2J$5318a2f8-0e08-4c2e-b9f5-fe577147d3cb
+m	java:S106N"+Replace this use of System.out by a logger.(’Áî8«²±æ2J$e2f57adb-d8b6-4aa8-b0ff-52b6c0adbc05
+m	java:S106O"+Replace this use of System.out by a logger.(š¿Õ‹8«²±æ2J$4b6c7fd2-7d52-41c3-a67f-455d4c5e7e41
+r	java:S106P"+Replace this use of System.out by a logger.(ê¾±Ìüÿÿÿÿ8«²±æ2J$8d3b4fd9-8258-4a57-945c-21879e6220eb
+r	java:S106Q"+Replace this use of System.out by a logger.(­ü™Áüÿÿÿÿ8®²±æ2J$4d508d8b-72a1-4ec8-b2ae-56ee4070c128
+~
+java:S1854`";Remove this useless assignment to local variable "apelido".(ÀŒøØ8¬²±æ2J$be0dd835-1788-4ab1-b738-aa605dd046bc
+„
+java:S1854Z"<Remove this useless assignment to local variable "telefone".(—í’ÿÿÿÿÿ8¬²±æ2J$210874bf-6e59-4dfd-ad73-c85f152bc47c
+ˆ
+java:S1659V"EDeclare "telefone" and all following declarations on a separate line.(²Œ’8­²±æ2J$607904fd-3c11-439c-931d-dfd8a5a29d3c
+p
+java:S1481V"-Remove this unused "telefone" local variable.(²Œ’8®²±æ2J$fe061b97-882f-43c7-a52e-4950b3c1f2d8
+o
+java:S1481V",Remove this unused "apelido" local variable.(²Œ’8®²±æ2J$1ba9b088-16b5-4db7-8e52-71864c37f3c9
+m	java:S106W"+Replace this use of System.out by a logger.(ŒĞæë8®²±æ2J$87263379-043d-4879-965a-9944ff3325e0
+m	java:S106Y"+Replace this use of System.out by a logger.(ë÷ô¥8®²±æ2J$673fe58c-03c8-47b7-b097-2a3678f89a5c
+r	java:S106["+Replace this use of System.out by a logger.(ª‚ÿäüÿÿÿÿ8®²±æ2J$3e879351-c86d-4820-abb7-6963256065f5
+m	java:S106]"+Replace this use of System.out by a logger.(Œøğà8®²±æ2J$a48c06d0-fa78-497f-b5b8-acaabfec09f6
+m	java:S106_"+Replace this use of System.out by a logger.(ßøİ’8°²±æ2J$448a523c-bdb7-4745-9a20-8b84dd53fb24
+‰
+java:S1126e"AReplace this if-then-else statement by a single return statement.(ÿÑïÍøÿÿÿÿ8¯²±æ2J$cf3c97f0-3e00-4bb0-a2c8-e9e3a5cf2051
+r	java:S106l"+Replace this use of System.out by a logger.(¾“Ïôüÿÿÿÿ8°²±æ2J$2fd98832-c4e1-4999-93db-56bbc4b52ee1
+m	java:S106m"+Replace this use of System.out by a logger.(İàè8°²±æ2J$02e4be04-2b52-4cb2-b6d4-4175e7d29a2e
+r	java:S106n"+Replace this use of System.out by a logger.(Á€²ïûÿÿÿÿ8°²±æ2J$ec9dbdf7-b8e4-4ed6-bab3-f9435623a7e2
+r	java:S106o"+Replace this use of System.out by a logger.(äüÉ¸ûÿÿÿÿ8°²±æ2J$6b9981af-5a23-4d56-9da3-a5418709c48d
+m	java:S106p"+Replace this use of System.out by a logger.(€ü†´8°²±æ2J$79803807-0d03-48e2-a3a2-582f48fa0cac
+m	java:S106q"+Replace this use of System.out by a logger.(Œš±Å8´²±æ2J$96733ac8-0771-4179-a661-b9f88c91921a
+•
+java:S3776s"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘8²²±æ2J$42eb9b81-5578-45dd-b6fd-84bf86b3b128
+m
+java:S1659v"*Declare "opcaoSubMenu" on a separate line.(™¢ìÁ8²²±æ2J$08d316d3-9106-4d22-b261-6a766900a903
+n
+java:S1659w"&Declare "password" on a separate line.(ÖèÜ£ùÿÿÿÿ8²²±æ2J$a26e6322-ff74-4a10-990e-7bcda5c0f42d
+i	java:S131{""Add a default case to this switch.(†²·¹úÿÿÿÿ8³²±æ2J$ec774a5d-fd2e-4f83-a0e5-431a7ab974c7
+“
+java:S1301{"KReplace this "switch" statement by "if" statements to increase readability.(†²·¹úÿÿÿÿ8³²±æ2J$bdec8e71-dcdb-42f6-b167-0a28f9427db0
+d
+java:S6205|"Remove this redundant block.(ò÷Ñäÿÿÿÿÿ8´²±æ2J$51c71357-b7e4-4c02-9297-f09c21609e4a
+r	java:S106}"+Replace this use of System.out by a logger.(”êĞşÿÿÿÿ8´²±æ2J$e3bac791-5849-461b-a8d6-67908afd39c9
+n	java:S106€"+Replace this use of System.out by a logger.(÷ùÊÂ8´²±æ2J$c52dff3c-27c5-43d1-8b7b-42459615736c
+s	java:S106"+Replace this use of System.out by a logger.(ª‚ÿäüÿÿÿÿ8´²±æ2J$35dcfe7d-92f3-45d7-aed4-350d15342e34
+n	java:S106ƒ"+Replace this use of System.out by a logger.(Œøğà8µ²±æ2J$eabe6d15-930d-41f7-a0c1-987aa049bdbb
+n	java:S106†"+Replace this use of System.out by a logger.(“·êİ8µ²±æ2J$1bc4834b-eb8a-4496-87ce-aad286a2b8c6
+e	java:S131Š""Add a default case to this switch.(ÚøêŠ8µ²±æ2J$f8ce921e-2c88-4ad9-9b57-32684dc5943f
+n	java:S106"+Replace this use of System.out by a logger.(ÚÂÖ÷8µ²±æ2J$506a7abb-93b0-4c29-8757-f0d130398d65
+e
+java:S6205"Remove this redundant block.(Çøÿÿÿÿÿ8µ²±æ2J$93750e1f-8007-45b5-b906-8b2c92f6b38d
+s	java:S106"+Replace this use of System.out by a logger.(àŠÖÎÿÿÿÿÿ8µ²±æ2J$f6bf079d-8941-469b-b0d8-0baf9a9a6ec3
+M	java:S106—"+Replace this use of System.out by a logger.(ÔÔ¦Œıÿÿÿÿ8Öù²æ2
